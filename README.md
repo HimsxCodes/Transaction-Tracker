@@ -66,7 +66,8 @@ A fast and intuitive web-based application to track your **income** and **expens
 
 ### 🌟 Demo or Screenshots
 
-_Add a demo link or screenshots here to showcase your application._
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/5d976a9e-4845-4b0f-ba9f-892ebb0d345c" />
+
 
 ---
 
